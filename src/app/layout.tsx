@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./globals.sass";
 import { Roboto } from "next/font/google";
 
 const roboto = Roboto({
